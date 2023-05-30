@@ -1,4 +1,6 @@
-### Hi there 👋
+## Oiii, eu sou Lari
+Atualmente estudando MySQL, JavaScript e Java☕
+Faço facul em Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília 👩‍🎓💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,7 +12,6 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-- Atualmente estudando MySQL, JavaScript e Java☕💻
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
