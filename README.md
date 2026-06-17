@@ -8,8 +8,8 @@ Atualmente sou formada em Análise e Desenvolvimento de Sistemas 👩‍🎓💻
   
 </div>
 
-🌱 I'm currently learning testing
-👯 I'm looking for IT companies
-📫 How to contact me: you can call me on chat or LinkedIn
-⚡ Fun fact: I recently took a trainee exam at PaulOOctavio
+-🌱 I'm currently learning testing
+-👯 I'm looking for IT companies
+-📫 How to contact me: you can call me on chat or LinkedIn
+-⚡ Fun fact: I recently took a trainee exam at PaulOOctavio
 
