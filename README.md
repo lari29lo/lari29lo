@@ -13,3 +13,10 @@ Atualmente sou formada em Análise e Desenvolvimento de Sistemas 👩‍🎓💻
 -📫 How to contact me: you can call me on chat or LinkedIn
 -⚡ Fun fact: I recently took a trainee exam at PaulOOctavio
 
+
+##
+
+<div align=center>
+<img src="https://raw.githubusercontent.com/lari29lo/lari29lo/output/snake.svg" alt="Snake animation" />
+</div>
+
